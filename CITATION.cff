@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "A Uniao Perfeita: Bitcoin e Inteligencia Artificial"
+message: "If you use this repository in research or discussion, please cite it using this metadata."
+type: book
+authors:
+  - family-names: "Magnus"
+    given-names: "Adilson"
+repository-code: "https://github.com/magnussolution/a-uniao-perfeita-bitcoin-e-inteligencia-artificial"
+abstract: "Hypothesis-driven exploration of Bitcoin as potential continuity infrastructure for distributed artificial intelligence."
+keywords:
+  - Bitcoin
+  - Artificial Intelligence
+  - Proof-of-Work
+  - Distributed Systems
+  - Self-preservation
+license: "All rights reserved"
+language: "pt-BR"
